@@ -474,6 +474,7 @@ projects .content .card-deck .col-md-1 .card{
     font-size: 16px;
     margin-top: 10px;
 }
+
 @media (max-width:1040px){
     header {
         padding: 10px 20px;
